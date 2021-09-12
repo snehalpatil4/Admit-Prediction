@@ -9,6 +9,7 @@
 - From the repo folder, run `gramex`
 
 ## Contributions
-![Capture](https://user-images.githubusercontent.com/51523547/132973219-1a0124cd-5da5-4c98-8e61-be49e9ac61b2.PNG)
+![Mlapp](https://user-images.githubusercontent.com/51523547/132973235-9b3f68ae-730a-440c-b20f-96e281ad563e.png)
+
 
 - BECOB226_Snehal Patil <sneva2913@gmail.com>
